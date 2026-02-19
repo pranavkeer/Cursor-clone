@@ -1,4 +1,5 @@
 Cursor Clone (Desktop UI Replica)
+![Cursor-The-best-way-to-code-with-AI-02-19-2026_03_55_PM](https://github.com/user-attachments/assets/30523d87-ec6b-46a6-8211-7dd093abe1d7)
 
 A pixel-accurate desktop clone of the Cursor homepage built using semantic HTML and modern CSS.
 
@@ -147,3 +148,6 @@ Disclaimer
 
 This is a UI recreation created for educational and portfolio purposes.
 All original design and branding belong to Cursor.
+
+
+
